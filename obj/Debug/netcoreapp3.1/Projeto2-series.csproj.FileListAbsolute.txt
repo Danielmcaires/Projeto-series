@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.AssemblyInfo.cs
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.exe
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.deps.json
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.runtimeconfig.json
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.dll
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\bin\Debug\netcoreapp3.1\Projeto2-series.pdb
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.dll
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.pdb
+C:\Users\Daniel\Documents\programação\.NET\Projeto2-series\obj\Debug\netcoreapp3.1\Projeto2-series.genruntimeconfig.cache
